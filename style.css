@@ -3,6 +3,8 @@
 }
 img{
     margin-top: 20%;
+    width: min-content;
+    height: initial;
 }
 input{
     width: 500px;
